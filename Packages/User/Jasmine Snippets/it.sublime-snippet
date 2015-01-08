@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+it('should ${1:do something}', function() {
+	${2:// body...}
+});]]></content>
+	<tabTrigger>it</tabTrigger>
+	<scope>source.js</scope>
+	<description>BDD It</description>
+</snippet>

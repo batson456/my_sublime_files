@@ -1,0 +1,4 @@
+[
+	{"keys": ["ctrl+shift+,"], "command": "add_date" },
+	{"keys": ["ctrl+shift+."], "command": "add_time" },
+]

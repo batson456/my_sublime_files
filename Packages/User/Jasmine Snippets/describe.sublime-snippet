@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+describe('${1:something}', function() {
+	${2:// body...}
+});]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>desc</tabTrigger>
+	<scope>source.js</scope>
+	<description>BDD Describe</description>
+</snippet>

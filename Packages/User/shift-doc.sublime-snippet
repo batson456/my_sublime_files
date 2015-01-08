@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+/*
+* Name          : ${1:File Name}
+* Author        : ${2:File Author}
+* Description   : ${3:File Description}
+* 
+* Maintenance History: 
+* Date ------------ Name  ----  Version --- Remarks 
+* ${4:date}     ${5:Bryce Batson}     ${6:0.1}       ${7:Initial}
+*/
+]]></content>
+	<tabTrigger>shift-doc</tabTrigger>
+</snippet>

@@ -1,0 +1,273 @@
+{
+	"javatar_gp": 0,
+	"jdk_version":
+	{
+		"JDK1.7.0u51":
+		{
+			"path": "/Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home/bin",
+			"update": "51",
+			"version": "1.7.0"
+		},
+		"use": "JDK1.7.0u51"
+	},
+	"message_id": 19,
+	"project_data":
+	{
+		"10":
+		{
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "."
+				}
+			]
+		},
+		"2":
+		{
+			"folders":
+			[
+				{
+					"folder_exclude_patterns":
+					[
+						"config/.symbols"
+					],
+					"path": "."
+				}
+			],
+			"settings":
+			{
+				"auto_complete_triggers":
+				[
+					{
+						"characters": ".",
+						"selector": "source - comment"
+					},
+					{
+						"characters": ":",
+						"selector": "text.html - comment"
+					},
+					{
+						"characters": "<",
+						"selector": "text.html - comment"
+					},
+					{
+						"characters": " ",
+						"selector": "text.html - comment"
+					}
+				]
+			}
+		},
+		"3":
+		{
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "/Users/bryce/AngularProjects/angular-seed"
+				}
+			]
+		},
+		"4":
+		{
+			"folders":
+			[
+				{
+					"folder_exclude_patterns":
+					[
+						"config/.symbols"
+					],
+					"path": "."
+				}
+			],
+			"settings":
+			{
+				"auto_complete_triggers":
+				[
+					{
+						"characters": ".",
+						"selector": "source - comment"
+					},
+					{
+						"characters": ":",
+						"selector": "text.html - comment"
+					},
+					{
+						"characters": "<",
+						"selector": "text.html - comment"
+					},
+					{
+						"characters": " ",
+						"selector": "text.html - comment"
+					}
+				]
+			}
+		},
+		"5":
+		{
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "."
+				}
+			],
+			"settings":
+			{
+				"auto_complete_triggers":
+				[
+					{
+						"characters": ".",
+						"selector": "source"
+					},
+					{
+						"characters": ":",
+						"selector": "text.html"
+					},
+					{
+						"characters": "<",
+						"selector": "text.html"
+					},
+					{
+						"characters": " ",
+						"selector": "text.html"
+					}
+				]
+			}
+		},
+		"6":
+		{
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "."
+				}
+			],
+			"settings":
+			{
+				"auto_complete_triggers":
+				[
+					{
+						"characters": ".",
+						"selector": "source"
+					},
+					{
+						"characters": ":",
+						"selector": "text.html"
+					},
+					{
+						"characters": "<",
+						"selector": "text.html"
+					},
+					{
+						"characters": " ",
+						"selector": "text.html"
+					}
+				]
+			}
+		},
+		"7":
+		{
+			"folders":
+			[
+				{
+					"folder_exclude_patterns":
+					[
+						"config/.symbols"
+					],
+					"path": "."
+				}
+			],
+			"settings":
+			{
+				"auto_complete_triggers":
+				[
+					{
+						"characters": ".",
+						"selector": "source - comment"
+					},
+					{
+						"characters": ":",
+						"selector": "text.html - comment"
+					},
+					{
+						"characters": "<",
+						"selector": "text.html - comment"
+					},
+					{
+						"characters": " ",
+						"selector": "text.html - comment"
+					}
+				]
+			}
+		},
+		"8":
+		{
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "."
+				}
+			],
+			"settings":
+			{
+				"auto_complete_triggers":
+				[
+					{
+						"characters": ".",
+						"selector": "source"
+					},
+					{
+						"characters": ":",
+						"selector": "text.html"
+					},
+					{
+						"characters": "<",
+						"selector": "text.html"
+					},
+					{
+						"characters": " ",
+						"selector": "text.html"
+					}
+				]
+			}
+		},
+		"9":
+		{
+			"folders":
+			[
+				{
+					"folder_exclude_patterns":
+					[
+						"config/.symbols"
+					],
+					"path": "."
+				}
+			],
+			"settings":
+			{
+				"auto_complete_triggers":
+				[
+					{
+						"characters": ".",
+						"selector": "source - comment"
+					},
+					{
+						"characters": ":",
+						"selector": "text.html - comment"
+					},
+					{
+						"characters": "<",
+						"selector": "text.html - comment"
+					},
+					{
+						"characters": " ",
+						"selector": "text.html - comment"
+					}
+				]
+			}
+		}
+	}
+}
